@@ -1,0 +1,2 @@
+# YOLOV8
+for_AI_COMPITITION
